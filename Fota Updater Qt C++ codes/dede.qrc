@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>WiFiScan.ino.bin</file>
+    </qresource>
+</RCC>
